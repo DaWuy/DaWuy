@@ -5,7 +5,7 @@
 ****
 <p align="center">
     <img align="center" alt="PNG" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
-    <h1 align="center">Hi <img src="https://media.giphy.com/media/RCdXguEakdQfQiKjAB/giphy.gif" width="30px">, I'm DaWuy</h1>
+   <h1 align="center">  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Xin chào, tôi là DaWuy</h1>
     <h3 align="center">I am a Programmer from Vietnam.</h3>
 
 
